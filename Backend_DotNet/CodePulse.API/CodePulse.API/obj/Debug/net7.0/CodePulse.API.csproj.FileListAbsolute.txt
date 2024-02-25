@@ -73,3 +73,4 @@ C:\Project\ASP.NET\DotNetWebAPI_Angular\Backend_DotNet\CodePulse.API\CodePulse.A
 C:\Project\ASP.NET\DotNetWebAPI_Angular\Backend_DotNet\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.pdb
 C:\Project\ASP.NET\DotNetWebAPI_Angular\Backend_DotNet\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.genruntimeconfig.cache
 C:\Project\ASP.NET\DotNetWebAPI_Angular\Backend_DotNet\CodePulse.API\CodePulse.API\obj\Debug\net7.0\ref\CodePulse.API.dll
+C:\Project\ASP.NET\DotNetWebAPI_Angular\Backend_DotNet\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.sourcelink.json
